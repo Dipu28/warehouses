@@ -1,0 +1,15 @@
+.list {
+  padding: 2rem;
+}
+
+.list__h:hover {
+  border-top: 3px solid whitesmoke;
+  box-shadow: 0px 4px 4px -2px rgba(0, 0, 0, 0.24);
+  cursor: pointer;
+}
+
+.list__h > td {
+  font-size: 1.6rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+}
